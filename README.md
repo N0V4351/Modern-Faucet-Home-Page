@@ -1,7 +1,7 @@
 # Modern Faucet Home Page
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Version](https://img.shields.io/badge/version-1.1-blue) [![GitHub views](https://komarev.com/ghpvc/?username=your-username&repo=your-repo)](https://github.com/your-username/your-repo) ![Last Update](https://img.shields.io/github/last-commit/your-username/your-repo)
 Welcome to the **Modern Faucet Home Page** – a sleek and intuitive cryptocurrency faucet landing page designed to let users easily add more coins to their crypto wallets. This HTML design provides an editable, responsive, and minimalistic approach to managing your faucet directly from the homepage. Customize the page, add as many coins as you wish, and ensure users have a seamless experience collecting cryptocurrency rewards.
-![Alt text](https://www.bulksms.com/images/solutions/solutions-custom.jpg)
+
 ---
 ## 🛠️ Features
 - **Simple & Editable Design**: Fully customizable HTML, allowing for quick edits to suit your brand and aesthetic.
